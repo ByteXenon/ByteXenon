@@ -1,18 +1,31 @@
-## Hey there! :wave:
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ByteXenon&theme=radical&show_icons=true">
+## Hello, World! 👋
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ByteXenon&show_icons=true&bg_color=151525&theme=radical">
+
+**I'm ByteXenon, a dedicated young software engineer**  
+**Here are some details about me:**
+ -   **📍 Location: Arizona, US**
+ -   **📫 How to reach me:**  
+     - **Academic Email: ``ddavi142@asu.edu``**
+     - **Personal Email: ``danielgtdavis@proton.me``**
+     - **Matrix: ``@programming:matrix.org``**
+ -   **🗣️ Pronouns: They/Them**
+ -   **🚀 Interests: Anime, Programming, White hat hacking**
+ -   **💼 Occupation: Programmer, Student**
+
+## 💻 Languages and Tools
+
+**Here are some of the languages and tools I enjoy working with:**
+
+- **👨‍💻 Programming Languages: Python, Lua, Bash, JavaScript, Assembly, C, C++**  
+- **🌐 Web Development: HTML, CSS, React, Node.js**  
+- **📊 Databases: MySQL, MongoDB**  
+- **🔀 Version Control: Git**  
+- **💻 Operating Systems: Windows, Linux**  
+- **🐧 Linux Distributions: Gentoo, OpenSUSE, LFS (Linux From Scratch), Arch**  
 
 
-**I'm ByteXenon, a 19-year-old programmer from the US.**
--  **🗣️ Pronouns: They/Them**  
--  **🔧 Occupation: Student, Programmer, OSDev**  
--  **🧠 Interests: Linux, Cybersecurity, Compilers**  
--  **🌸 I am working on:**  
--  -  **[IP-Security-Database](https://github.com/ByteXenon/IP-Security-Database)**
--  **📫 My contacts:**  
--  - **Matrix: ``@public_enemy:matrix.org``**
--  - **Email: ``danielgtdavis@proton.me``**
-<br>
+---
 
---- 
-<h3 align="center"><b>Stats:</b></h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteXenon&theme=radical&bg_color=141321&hide_border=true" width="100%"/>
+<h3 align="center">📈 Stats:</h3>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ByteXenon&hide_border=true&theme=radical&bg_color=151525" />
