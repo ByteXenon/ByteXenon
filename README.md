@@ -7,7 +7,7 @@
  -   **📍 Location: Arizona, US**
  -   **📫 How to reach me:**  
      - **Academic Email: ``ddavi142@asu.edu``**
-     - **Personal Email: ``danielgtdavis@proton.me``**
+     - **Personal Email: ``CodeGalaxy@proton.me``**
      - **Matrix: ``@programming:matrix.org``**
  -   **🗣️ Pronouns: They/Them**
  -   **🚀 Interests: Anime, Programming, White hat hacking**
