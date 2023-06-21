@@ -19,7 +19,7 @@ Here are some details about me:**
 - **🗣️ Pronouns: They/Them**
 - **🚀 Interests: Anime, Programming, White hat hacking**
 - **💼 Occupation: Programmer, Student**  
-- **🔑 Public PGP key: [public.pgp](public.pgp)**
+- **🔑 Public PGP key: [public.pgp](public.pgp?raw=true)**
 
 ## 💻 Languages and Tools
 
