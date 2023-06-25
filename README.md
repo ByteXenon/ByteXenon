@@ -15,7 +15,6 @@ Here are some details about me:**
 - **📫 Contacts:**  
   - **Academic Email: `ddavi142@asu.edu`**
   - **Personal Email: `CodeGalaxy@proton.me`**
-  - **Matrix: `@programming:matrix.org`**
 - **🗣️ Pronouns: They/Them**
 - **🚀 Interests: Anime, Programming, White hat hacking**
 - **💼 Occupation: Programmer, Student**  
