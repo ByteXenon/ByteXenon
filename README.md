@@ -10,7 +10,6 @@ Here are some details about me:**
 - **🗣️ Pronouns: She/Her**
 - **🚀 Interests: Programming, Ethical hacking**
 - **💼 Occupation: Programmer, Student**
-- 
 ## 💻 Languages and Tools
 
 <picture>
