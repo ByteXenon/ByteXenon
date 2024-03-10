@@ -1,27 +1,26 @@
 # Hello, world!
 
-I'm ByteXenon, a DevOps engineer & bug bounty hunter. 
+I'm ByteXenon, a developer & bug bounty hunter. 
 
 ![GitHub followers](https://img.shields.io/github/followers/ByteXenon?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
-## 📝 About me
-
-- 🚺 **Pronouns:** She/Her
-- 💻 **Interests:** Linux, Programming, Ethical hacking
-- 🎓 **Occupation:** Programmer, Student, Bug bounty hunter
-- 📞 Socials and stuff
-  - Personal Site: https://sylveon.tech
+## About me
+https://github.com/ByteXenon/ByteXenon/edit/main/README.md
+- **Pronouns:** She/Her
+- **Interests:** Linux, Programming, Ethical hacking
+- \~Socials and stuff\~
+  - Site: https://sylveon.tech
   - Discord: `bytexenon_was_taken`
   - Email: `ddavi142@asu.edu`
 
-## 🎯 Interesting facts about me
+## Fun facts about me
 
 - I managed to [find and report a vulnerability in Github's markdown system](https://github.com/ByteXenon/SecurityResearchWriteups/blob/main/GithubFlavoredMarkdown-VULN.md), which was later patched (:
 - I love making compilers/interpreters/(de)obfuscators/etc., [LuaXen](https://github.com/ByteXenon/LuaXen) is a beautiful example of this.
 - I'm a huge fan of making Linux distributions, and [I've made one myself](https://www.youtube.com/watch?v=urG8cNVlKB4).
 - I scan the internet for vulnerabilities 24/7 and report them using my `@sylveon.tech` email. You may have seen it in your inbox before (^:
 
-## 📈 GitHub stats
+## GitHub stats
 
 <p align="center">
     <picture>
@@ -34,7 +33,7 @@ I'm ByteXenon, a DevOps engineer & bug bounty hunter.
     </picture>
 </p>
 
-## 📊 Activity graph
+## Activity graph
 
 <p align="center">
     <picture>
