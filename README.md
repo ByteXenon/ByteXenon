@@ -5,7 +5,6 @@ I'm ByteXenon, a developer & bug bounty hunter.
 ![GitHub followers](https://img.shields.io/github/followers/ByteXenon?style=for-the-badge&logo=github&logoColor=white&color=blue)
 
 ## About me
-https://github.com/ByteXenon/ByteXenon/edit/main/README.md
 - **Pronouns:** She/Her
 - **Interests:** Linux, Programming, Ethical hacking
 - \~Socials and stuff\~
