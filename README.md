@@ -1,4 +1,4 @@
-# Hello, world!
+# Hello, world
 
 I'm ByteXenon, a developer, music maker, and ethical hacker.
 
@@ -14,12 +14,12 @@ I'm ByteXenon, a developer, music maker, and ethical hacker.
 
 ## Fun facts about me
 
-- I'm *obsessed* with coffee milk, it's the best drink ever.
+- I'm *obsessed* with coffee milk, it's the best drink ever <3
 - I managed to [find and report a vulnerability in Github's markdown system](https://github.com/ByteXenon/SecurityResearchWriteups/blob/main/GithubFlavoredMarkdown-VULN.md), which was later patched (:
 - I love making compilers/interpreters/(de)obfuscators/etc., [LuaXen](https://github.com/ByteXenon/LuaXen) is a beautiful example of this.
 - I'm a huge fan of making Linux distributions, and [I've made one myself](https://www.youtube.com/watch?v=urG8cNVlKB4).
 - I scan the internet for vulnerabilities 24/7 and report them using my `@sylveon.tech` email. You may have seen it in your inbox before (^:
-- *Sometimes* I upload my music to my [YouTube channel](https://www.youtube.com/@AdminOfYourMom), I'm not the best at it but I try my best.
+- *Sometimes* once in a blue moon I upload my music to my [YouTube channel](https://www.youtube.com/@AdminOfYourMom), I'm not the best at it but I try my best.
 
 ## GitHub stats
 
