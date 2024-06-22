@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            943 Commits
+                            944 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.4046975218763" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="361.4046975218763" y="0" width="72.95535084195039" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="434.36004836382665" y="0" width="6.5324314030543675" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.892479766881" y="0" width="5.227605373209745" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.12008514009074" y="0" width="4.445758334734289" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.56584347482504" y="0" width="3.4181504920439987" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="453.98399396686904" y="0" width="3.267635652840425" height="8" fill="#403a40"/>
-                    <rect mask="url(#languages-bar)" x="457.25162961970943" y="0" width="2.7483703802905057" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.34768107602366" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="361.34768107602366" y="0" width="72.997540020404" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.3452210964277" y="0" width="6.536209027464625" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.8814301238923" y="0" width="5.230628432840467" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.1120585567328" y="0" width="4.4483292618778245" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.5603878186106" y="0" width="3.4201271662622137" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.9805149848728" y="0" width="3.269525286185863" height="8" fill="#403a40"/>
+                    <rect mask="url(#languages-bar)" x="457.25004027105865" y="0" width="2.7499597289413247" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2307,10 +2307,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.368421052631579 0,3.3684210526315788 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3684210526315788 1.7,4.368421052631579 z"/>
                             </g>
-                            <g transform="translate(-8.5, 7.842105263157895)">
+                            <g transform="translate(-8.5, 7.684210526315789)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.157894736842105 0,4.157894736842105 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.157894736842105 1.7,5.157894736842105 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.315789473684211 0,4.315789473684211 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.315789473684211 1.7,5.315789473684211 z"/>
                             </g>
                         </g>
                     </g>
@@ -2325,6 +2325,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ByteXenon/MathParser.lua</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8086589</div>
+                                        <div class="message">Update the minified file, and rename it to `MathParser_min.lua`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2529,26 +2549,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bytexenuwu/The-Tiny-Lua-Compiler</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c138050</div>
-                                        <div class="message">Update check-code.yaml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2661,7 +2661,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.31m out of 136m users</span>
+                                    <span class="gh">ranked 2.31m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 24 public repositories</div>
                             </div>
@@ -2850,7 +2850,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 762k out of 136m users</span>
+                                    <span class="gh">ranked 762k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -3007,7 +3007,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3114,7 +3114,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.31m out of 210m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3205,7 +3205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2024, 22:17:59 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2024, 23:23:55 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
