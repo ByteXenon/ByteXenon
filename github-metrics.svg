@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            944 Commits
+                            949 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.34768107602366" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="361.34768107602366" y="0" width="72.997540020404" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="434.3452210964277" y="0" width="6.536209027464625" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.8814301238923" y="0" width="5.230628432840467" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.1120585567328" y="0" width="4.4483292618778245" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.5603878186106" y="0" width="3.4201271662622137" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="453.9805149848728" y="0" width="3.269525286185863" height="8" fill="#403a40"/>
-                    <rect mask="url(#languages-bar)" x="457.25004027105865" y="0" width="2.7499597289413247" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.33441307552584" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="361.33441307552584" y="0" width="73.00735764464125" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.3417707201672" y="0" width="6.537088098788807" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="440.87885881895596" y="0" width="5.231331913320274" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.11019073227624" y="0" width="4.4489275289586665" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.55911826123486" y="0" width="3.420587147836286" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="453.97970540907113" y="0" width="3.269965012931243" height="8" fill="#403a40"/>
+                    <rect mask="url(#languages-bar)" x="457.2496704220024" y="0" width="2.7503295779975914" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2288,9 +2288,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3157894736842106 1.7,2.3157894736842106 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.2631578947368425)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.736842105263158 0,2.736842105263158 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.736842105263158 1.7,3.736842105263158 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.736842105263158 0,2.736842105263158 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.736842105263158 1.7,3.736842105263158 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.842105263157895)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2307,10 +2307,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.368421052631579 0,3.3684210526315788 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3684210526315788 1.7,4.368421052631579 z"/>
                             </g>
-                            <g transform="translate(-8.5, 7.684210526315789)">
+                            <g transform="translate(-8.5, 7.526315789473684)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.315789473684211 0,4.315789473684211 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.315789473684211 1.7,5.315789473684211 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.473684210526316 0,4.473684210526316 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.473684210526316 1.7,5.473684210526316 z"/>
                             </g>
                         </g>
                     </g>
@@ -2325,6 +2325,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">ByteXenon/The-Tiny-Lua-Compiler</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b008648</div>
+                                        <div class="message">Update tests to match revised AST structure for conditional statements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#803f894</div>
+                                        <div class="message">Make the compiler support the latest "IfStatement" node structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e739c95</div>
+                                        <div class="message">Refactor if statement parsing, and improve the structure of "IfStatement" nodes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a940b68</div>
+                                        <div class="message">Streamline token expectation functions with return values</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8daffd9</div>
+                                        <div class="message">Slightly refactor the trie creation/traverse code</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2509,42 +2545,6 @@
                                     <div class="commit">
                                         <div class="sha">#e7f80b4</div>
                                         <div class="message">Refactor the class structure of the Evaluator</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ByteXenon/The-Tiny-Lua-Compiler</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#02c4b0b</div>
-                                        <div class="message">Make the "NEWTABLE" instruction include sizes in its operands, in the Compiler</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af0f861</div>
-                                        <div class="message">Make the "Table" node compiller support the new "Table" node structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#403b591</div>
-                                        <div class="message">Refactor Table node structure in Parser and improve element handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5975f5f</div>
-                                        <div class="message">Improve the Table node structure in the Parser</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d02935</div>
-                                        <div class="message">Add support for long strings to the Tokenizer</div>
                                     </div>
                                 </div>
                             </section>
@@ -3007,7 +3007,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.52m out of 204m repositories</span>
+                                    <span class="gh">ranked 3.52m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3114,7 +3114,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.31m out of 204m repositories</span>
+                                    <span class="gh">ranked 2.31m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3205,7 +3205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2024, 01:21:10 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jun 2024, 02:18:20 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
