@@ -2521,7 +2521,7 @@ Please try updating your Node.js to the latest version and see if the issue pers
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 10.6k out of 147m users</span>
+                                    <span class="gh">ranked 10.6k out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 751 users</div>
                             </div>
@@ -2631,7 +2631,7 @@ Please try updating your Node.js to the latest version and see if the issue pers
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.31m out of 147m users</span>
+                                    <span class="gh">ranked 2.31m out of 143m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3130,7 +3130,7 @@ Please try updating your Node.js to the latest version and see if the issue pers
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2024, 13:22:47 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2024, 14:20:00 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
