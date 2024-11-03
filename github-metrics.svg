@@ -2526,7 +2526,7 @@ It works for me as well, I just think it wouldn't hurt to add that additional ch
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 10.2k out of 145m users</span>
+                                    <span class="gh">ranked 10.2k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 781 users</div>
                             </div>
@@ -2597,7 +2597,7 @@ It works for me as well, I just think it wouldn't hurt to add that additional ch
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.32m out of 145m users</span>
+                                    <span class="gh">ranked 2.32m out of 148m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -2817,7 +2817,7 @@ It works for me as well, I just think it wouldn't hurt to add that additional ch
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.05m out of 214m repositories</span>
+                                    <span class="gh">ranked 1.05m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2932,7 +2932,7 @@ It works for me as well, I just think it wouldn't hurt to add that additional ch
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.63m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.63m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3088,7 +3088,7 @@ It works for me as well, I just think it wouldn't hurt to add that additional ch
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2024, 20:10:52 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2024, 20:30:48 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
