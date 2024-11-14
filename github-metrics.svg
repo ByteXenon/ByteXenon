@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1516 Commits
+                            1518 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.98445284775033" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="369.98445284775033" y="0" width="40.33512532222173" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="410.3195781699721" y="0" width="16.886750262269217" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="427.2063284322413" y="0" width="11.10352380844848" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.30985224068985" y="0" width="9.4193651636771" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.7292174043669" y="0" width="4.881982534367453" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.6111999387344" y="0" width="3.855409029522898" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.4666089682573" y="0" width="3.5333910317427977" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.8715138166447" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="369.8715138166447" y="0" width="40.32281288601434" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.19432670265905" y="0" width="16.88159552347286" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="427.0759222261319" y="0" width="11.100134419485967" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.1760566456179" y="0" width="9.556906457484624" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.7329631031025" y="0" width="4.880492292350358" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.6134553954529" y="0" width="3.8542321526110213" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.46768754806396" y="0" width="3.5323124519360776" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2993,7 +2993,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.02m out of 213m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 27 stars</div>
                             </div>
@@ -3072,7 +3072,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.64m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.64m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3263,7 +3263,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2024, 13:22:40 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 14:19:38 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
