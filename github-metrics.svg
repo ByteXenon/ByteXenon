@@ -2656,7 +2656,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 9.51k out of 149m users</span>
+                                    <span class="gh">ranked 9.51k out of 146m users</span>
                                 </div>
                                 <div class="text">Followed by 834 users</div>
                             </div>
@@ -2727,7 +2727,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.34m out of 149m users</span>
+                                    <span class="gh">ranked 2.34m out of 146m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -2948,7 +2948,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.02m out of 200m repositories</span>
+                                    <span class="gh">ranked 1.02m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 27 stars</div>
                             </div>
@@ -3027,7 +3027,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.64m out of 200m repositories</span>
+                                    <span class="gh">ranked 3.64m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3218,7 +3218,7 @@ Co-authored-by: GuardianWang &lt;31812793+GuardianWang@users.noreply.github.com&
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2024, 20:34:24 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2024, 21:25:47 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
