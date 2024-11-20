@@ -2832,7 +2832,7 @@ Thanks for opening this issue, can you please run the command
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.03m out of 225m repositories</span>
+                                    <span class="gh">ranked 1.03m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 27 stars</div>
                             </div>
@@ -2911,7 +2911,7 @@ Thanks for opening this issue, can you please run the command
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.64m out of 225m repositories</span>
+                                    <span class="gh">ranked 3.64m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3179,7 +3179,7 @@ Thanks for opening this issue, can you please run the command
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2024, 18:41:27 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2024, 19:57:41 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
