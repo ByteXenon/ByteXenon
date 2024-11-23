@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2215" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2197" class="">
     <defs>
         <style/>
     </defs>
@@ -65,8 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Compiler engineer, Security researcher
-AwsWafIntegration.forceRefreshToken</div>
+                        <div class="introduction">Compiler engineer, Security researcher</div>
                     </section>
                 </div>
             </section>
@@ -2826,7 +2825,7 @@ If yours looks like this second example, use
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 213m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2941,7 +2940,7 @@ If yours looks like this second example, use
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.64m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.64m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3173,7 +3172,7 @@ If yours looks like this second example, use
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2024, 07:18:04 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2024, 08:19:54 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
