@@ -2622,7 +2622,7 @@ If so, as a temporary workaround, you can use the
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 9.34k out of 144m users</span>
+                                    <span class="gh">ranked 9.34k out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 851 users</div>
                             </div>
@@ -2693,7 +2693,7 @@ If so, as a temporary workaround, you can use the
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.35m out of 144m users</span>
+                                    <span class="gh">ranked 2.35m out of 150m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -2878,7 +2878,7 @@ If so, as a temporary workaround, you can use the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 214m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2926,7 +2926,7 @@ If so, as a temporary workaround, you can use the
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.334017796030122 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5462012320328578 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2993,7 +2993,7 @@ If so, as a temporary workaround, you can use the
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3225,7 +3225,7 @@ If so, as a temporary workaround, you can use the
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2024, 05:42:49 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2024, 06:30:48 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
