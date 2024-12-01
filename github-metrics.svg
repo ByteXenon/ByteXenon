@@ -2605,7 +2605,7 @@ These don't 100% match with your screenshots. So I'd suggest you to re-run Sherl
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 9.31k out of 150m users</span>
+                                    <span class="gh">ranked 9.31k out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 855 users</div>
                             </div>
@@ -2676,7 +2676,7 @@ These don't 100% match with your screenshots. So I'd suggest you to re-run Sherl
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.36m out of 150m users</span>
+                                    <span class="gh">ranked 2.36m out of 149m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -2894,7 +2894,7 @@ These don't 100% match with your screenshots. So I'd suggest you to re-run Sherl
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 207m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2976,7 +2976,7 @@ These don't 100% match with your screenshots. So I'd suggest you to re-run Sherl
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 207m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3208,7 +3208,7 @@ These don't 100% match with your screenshots. So I'd suggest you to re-run Sherl
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2024, 15:16:09 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 16:16:24 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
