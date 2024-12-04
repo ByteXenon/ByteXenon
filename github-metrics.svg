@@ -2867,7 +2867,7 @@ Just a heads up though, it’s only available if you install Sherlock directly f
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 219m repositories</span>
+                                    <span class="gh">ranked 1.06m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 26 stars</div>
                             </div>
@@ -2913,7 +2913,7 @@ Just a heads up though, it’s only available if you install Sherlock directly f
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 219m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 212m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3145,7 +3145,7 @@ Just a heads up though, it’s only available if you install Sherlock directly f
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 07:17:37 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 08:19:29 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
